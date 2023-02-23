@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Samuel
 
-Fullstack developer, working with delopment since 2019.
+Backend developer, working with delopment since 2019.
 
 ### 📱 Connect with me:
 
